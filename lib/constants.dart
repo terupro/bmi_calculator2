@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 const kActiveCardColor = Colors.white54;
-const kInActiveCardColor = Colors.white10;
+const kInActiveCardColor = Colors.white24;
 const kBodyTextStyle = TextStyle(
   fontSize: 25.0,
   fontWeight: FontWeight.w800,
